@@ -1,6 +1,6 @@
 $baseURI = "https://components.cyberarkdemo.com"
 $acctName = "Account name to check on"
-$acctAddy = "Account to check on address"
+$acctAddy = "Account address to check on"
 
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
